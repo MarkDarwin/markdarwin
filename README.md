@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a new website
+- 🌱 I’m currently learning Hugo
+
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+
+
+
+
 <!--
 **MarkDarwin/markdarwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
