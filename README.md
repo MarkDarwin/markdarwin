@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on a new website
 - 🌱 I’m currently learning Hugo
 
-[![Visits Badge](https://badges.pufler.dev/visits/MarkDarwin)](https://badges.pufler.dev)
-
+[![Visits Badge](https://badges.pufler.dev/visits/MarkDarwin/MarkDarwin)](https://markdarwin.com)
 
 
 
