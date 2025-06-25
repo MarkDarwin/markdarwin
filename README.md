@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a new website
-- 🌱 I’m currently learning Hugo
+- 🌱 I’m currently learning Ansilble, Terraform, kubernetes
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=markdarwin)](https://git.io/streak-stats)
 
 [![Visits Badge](https://badges.pufler.dev/visits/MarkDarwin/MarkDarwin)](https://markdarwin.com)
 
