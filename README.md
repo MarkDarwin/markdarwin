@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a new website
+- 🔭 I’m currently working on rebuilding my homelab from the ground up with code
 - 🌱 I’m currently learning Ansilble, Terraform, kubernetes
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=markdarwin)](https://git.io/streak-stats)
